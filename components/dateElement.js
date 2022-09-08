@@ -3,4 +3,4 @@ export default (date) => {
     dateElement.classList.add('date');
     dateElement.innerHTML = date;
     return dateElement;
-}
+};
