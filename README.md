@@ -1,6 +1,6 @@
-# # JS en la Web: Almacenando datos en el navegador
+# JS en la Web: Almacenando datos en el navegador
 
-#-Agenda Online
+##-Agenda Online
 
 En este proyecto desarrollamos una agenda interactiva online, almacenando datos en el navegador
 con la posibilidad de marcar datos como completados y tambien poder borrar datos de la lista.
