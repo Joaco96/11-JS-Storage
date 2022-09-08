@@ -6,3 +6,4 @@ En este proyecto desarrollamos una agenda interactiva online, almacenando datos 
 con la posibilidad de marcar datos como completados y tambien poder borrar datos de la lista.
 
 Les dejo el link para navegar la agenda
+https://joaco96.github.io/11-JS-Storage/
